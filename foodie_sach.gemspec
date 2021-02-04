@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["sachinsaxena1996@gmail.com"]
 
   spec.summary       = "Foodie gem all about foodie people"
-  spec.description   = "Foodie gem all about foodie people"
   spec.homepage      = "http://rubygems.org/gems/foodie_sach"
   spec.license       = "MIT"
 
